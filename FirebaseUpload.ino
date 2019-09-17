@@ -11,7 +11,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
 
-// Set these to run example.
+Set these to run example.
 #define FIREBASE_HOST "com.example.myapp"
 #define FIREBASE_AUTH "9JY3fy8LbyPDN3ZcXYeVwMbtprERsCABICVKTRF5"
 #define WIFI_SSID "Eswar Venkat"
